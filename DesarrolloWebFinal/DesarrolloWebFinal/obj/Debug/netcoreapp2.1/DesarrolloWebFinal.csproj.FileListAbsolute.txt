@@ -1,0 +1,17 @@
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\bin\Debug\netcoreapp2.1\DesarrolloWebFinal.deps.json
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\bin\Debug\netcoreapp2.1\DesarrolloWebFinal.runtimeconfig.json
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\bin\Debug\netcoreapp2.1\DesarrolloWebFinal.runtimeconfig.dev.json
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\bin\Debug\netcoreapp2.1\DesarrolloWebFinal.dll
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\bin\Debug\netcoreapp2.1\DesarrolloWebFinal.pdb
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\obj\Debug\netcoreapp2.1\DesarrolloWebFinal.csprojAssemblyReference.cache
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\obj\Debug\netcoreapp2.1\DesarrolloWebFinal.AssemblyInfoInputs.cache
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\obj\Debug\netcoreapp2.1\DesarrolloWebFinal.AssemblyInfo.cs
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\obj\Debug\netcoreapp2.1\DesarrolloWebFinal.csproj.CoreCompileInputs.cache
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\obj\Debug\netcoreapp2.1\DesarrolloWebFinal.RazorAssemblyInfo.cache
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\obj\Debug\netcoreapp2.1\DesarrolloWebFinal.RazorAssemblyInfo.cs
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\obj\Debug\netcoreapp2.1\DesarrolloWebFinal.RazorTargetAssemblyInfo.cache
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\obj\Debug\netcoreapp2.1\DesarrolloWebFinal.dll
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\obj\Debug\netcoreapp2.1\DesarrolloWebFinal.pdb
+C:\Users\lchen\source\repos\DesarrolloWebFinal\DesarrolloWebFinal\obj\Debug\netcoreapp2.1\DesarrolloWebFinal.genruntimeconfig.cache
